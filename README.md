@@ -1,4 +1,4 @@
-# Local Dynamical Activity Map (YZ Plane)
+# Local Dynamical Activity Map
 
 Compute local dynamical activity maps from molecular dynamics (MD) trajectories, focusing on the 2D plane. This helps visualize spatial variations in molecular mobility.
 
